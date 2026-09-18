@@ -1,0 +1,1 @@
+"""MatrixGuard room moderation bot."""
