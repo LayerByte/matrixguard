@@ -53,6 +53,3 @@ Spam state is process-local, homeserver moderation capabilities vary, and encryp
 
 School Purpose Only. Test power levels and redaction behavior in a non-production room first.
 
-## License
-
-MIT; see the collection's root `LICENSE` file.
